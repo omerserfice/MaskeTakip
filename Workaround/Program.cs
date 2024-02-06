@@ -39,7 +39,7 @@ namespace Workaround
             person1.FirstName = "Ömer";
             person1.LastName = "Serfice";
             person1.DateOfBirthYear = 1993;
-            person1.NationalIdentity = 16946230708;
+            person1.NationalIdentity = 122322;
 
             Person person2 = new Person();
             person2.FirstName = "Murat";
